@@ -1,0 +1,9 @@
+E:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ImageMap\ImageMap\bin\Debug\ImageMap.exe.config
+E:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ImageMap\ImageMap\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ImageMap\ImageMap\obj\Debug\ImageMap.Form1.resources
+E:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ImageMap\ImageMap\obj\Debug\ImageMap.Properties.Resources.resources
+E:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ImageMap\ImageMap\obj\Debug\ImageMap.csproj.GenerateResource.Cache
+E:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ImageMap\ImageMap\bin\Debug\ImageMap.exe
+E:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ImageMap\ImageMap\bin\Debug\ImageMap.pdb
+E:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ImageMap\ImageMap\obj\Debug\ImageMap.exe
+E:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ImageMap\ImageMap\obj\Debug\ImageMap.pdb
